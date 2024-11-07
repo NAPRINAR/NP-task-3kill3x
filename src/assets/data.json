@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "brand": "Brand A",
+    "price": 99.99,
+    "rating": 4.5,
+    "imageUrl": "https://images.philips.com/is/image/philipsconsumer/60a04af525fe4e7589acb0c90075d2d7?$pnglarge$&wid=1250"
+  },
+  {
+    "id": 2,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "brand": "Brand B",
+    "price": 49.99,
+    "rating": 4.0,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtZaGcgmn5MiaCreJkQdWENDIb9bLRQ4Uw6Q&s"
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "brand": "Brand C",
+    "price": 59.99,
+    "rating": 4.2,
+    "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2023/09/running-shoes-2048px-5960.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "brand": "Brand D",
+    "price": 499.99,
+    "rating": 4.8,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS08ujvq45YWvSkqKRA9kcUPbMSXYp1sXINbw&s"
+  },
+  {
+    "id": 5,
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "brand": "Brand E",
+    "price": 199.99,
+    "rating": 4.7,
+    "imageUrl": "https://www.angeljackets.com/product_images/d/930/mens_hooded_leather_jacket__96933_zoom.webp"
+  }
+]

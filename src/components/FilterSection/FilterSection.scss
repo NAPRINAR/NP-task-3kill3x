@@ -1,0 +1,28 @@
+.filterSection {
+  //   padding: 5px;
+  //   margin-top: 6px;
+  border: 2px solid #777;
+  min-height: 100vh;
+  padding: 20px;
+
+  h3 {
+    text-align: center;
+  }
+  &__selects {
+    display: flex;
+    flex-direction: column;
+  }
+
+  select {
+    margin-top: 20px;
+    width: 100%;
+    padding: 15px 0;
+    border-radius: 15px;
+    outline: none;
+    text-align: center;
+    option {
+      //   text-align: left;
+      text-align: center;
+    }
+  }
+}
